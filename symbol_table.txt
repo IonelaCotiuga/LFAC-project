@@ -1,0 +1,17 @@
+name: a , type: int , scope: global , valoare: 5 
+name: x , type: int , scope: global , valoare: 17 
+name: z , type: int , scope: global , valoare: 8 
+name: array[2] , type: int , scope: global , valoare: {3 4 } 
+name: exp , type: int , scope: global , valoare: 30 
+name: x , type: int , scope: local 
+name: r , type: int , scope: local , valoare: 11 
+name: var , type: char , scope: local 
+name: arr[3] , type: int , scope: main , valoare: {8 9 3 } 
+name: arr2[4] , type: int , scope: main , valoare: {3 6 7 0 } 
+name: b , type: int , scope: main , valoare: 10 
+name: dd , type: int , scope: main , valoare: 6 
+name: x1 , type: int , scope: main , valoare: 4 
+name: sir , type: string , scope: main , valoare: "abba" 
+name: c , type: char , scope: main , valoare: 'c' 
+name: t , type: float , scope: main , valoare: 2.000000
+name: t1 , type: float , scope: main , valoare: 2.000000

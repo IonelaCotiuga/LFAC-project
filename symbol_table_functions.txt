@@ -1,0 +1,2 @@
+name: f1 , type: int , params: string  
+name: fff , type: char , params:  int int string  
